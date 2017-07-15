@@ -1,5 +1,8 @@
 #Ideology
 
+###[project](https://shirleyjiangchn.github.io/china_ideology/project)
+###[about](https://shirleyjiangchn.github.io/china_ideology/about)
+
 The article “China’s Ideological Spectrum” by Jennifer Pan and Yiqing Xu is summarized here:
 
 The study of ideology in authoritarian regimes—of how public preferences are configured and constrained—has received relatively little scholarly attention. This is because the arrangement of preferences is often seen as unimportant where individuals cannot vote or where votes do not meaningfully influence political outcomes. However, studying ideology in authoritarian regimes is valuable because it can shed light on the contours of opposition to and support for the regime. Using data from a large-scale online survey, we study ideology in China. 
