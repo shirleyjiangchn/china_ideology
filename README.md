@@ -1,7 +1,7 @@
-#Ideology
+# Ideology
 
-###[project](https://shirleyjiangchn.github.io/china_ideology/project)
-###[about](https://shirleyjiangchn.github.io/china_ideology/about)
+### [project](https://shirleyjiangchn.github.io/china_ideology/project)
+### [about](https://shirleyjiangchn.github.io/china_ideology/about)
 
 The article “China’s Ideological Spectrum” by Jennifer Pan and Yiqing Xu is summarized here:
 
