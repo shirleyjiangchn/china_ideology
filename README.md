@@ -2,7 +2,8 @@
 
 ### here is another linked page
 
-https://shirleyjiangchn.github.io/china_ideology/project
+https://shirleyjiangchn.github.io/china_ideology/project/ - automatic!
+[project] (https://shirleyjiangchn.github.io/china_ideology/project)
 
 
 You can use the [editor on GitHub](https://github.com/shirleyjiangchn/china_ideology/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
