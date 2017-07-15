@@ -2,7 +2,7 @@
 
 ## here is another linked page
 
-### [project] (https://shirleyjiangchn.github.io/china_ideology/project)
+### [project] (https://www.google.com)
 
 --------------------------------------------------------------------------------------------------------------------------
 
