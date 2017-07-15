@@ -2,8 +2,7 @@
 
 ## here is another linked page
 
-### [project] (https://www.google.com)
-### [editor on GitHub](https://github.com/shirleyjiangchn/china_ideology/edit/gh-pages/README.md)
+### [Project](https://shirleyjiangchn.github.io/china_ideology/project)
 
 --------------------------------------------------------------------------------------------------------------------------
 
