@@ -1,9 +1,7 @@
 # Welcome to GitHub Pages
 
-## here is another linked page
-
-### [Project](https://shirleyjiangchn.github.io/china_ideology/project)
-### [About](https://shirleyjiangchn.github.io/china_ideology/about)
+## [Project](https://shirleyjiangchn.github.io/china_ideology/project)
+## [About](https://shirleyjiangchn.github.io/china_ideology/about)
 --------------------------------------------------------------------------------------------------------------------------
 
 You can use the [editor on GitHub](https://github.com/shirleyjiangchn/china_ideology/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
