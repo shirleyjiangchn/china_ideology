@@ -1,5 +1,10 @@
 # Ideology
 
+div {
+    width: 200px;
+    word-wrap: break-word;
+}
+
 ## [project](https://shirleyjiangchn.github.io/china_ideology/project)
 ## [about](https://shirleyjiangchn.github.io/china_ideology/about)
 
