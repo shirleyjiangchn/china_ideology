@@ -1,20 +1,9 @@
 # Ideology
 
-<div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <[project](https://shirleyjiangchn.github.io/china_ideology/project)
-         [about](https://shirleyjiangchn.github.io/china_ideology/about)>
-    </div>
-    <div style="display: inline-block;">
-        <Summary of The Recent Research>
-    </div>
-    <div style="display: inline-block;">
-        <!-- third column's content -->
-    </div>
-</div>
+## [project](https://shirleyjiangchn.github.io/china_ideology/project)
+## [about](https://shirleyjiangchn.github.io/china_ideology/about)
 
-
-
+## Summary of The Recent Research
 
 The article “China’s Ideological Spectrum” by Jennifer Pan and Yiqing Xu is summarized here:
 
