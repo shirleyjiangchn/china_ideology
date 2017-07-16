@@ -3,11 +3,10 @@
         <h2>Good</h2>
         <pre> abcdefg
     <pre>
-    </div> 
-    
+    </div>   
     <div style="display: inline-block;">
         <h2>Bad</h2>
         <pre> cnkhfevnkjvclkdjfsdhfughksfjji dhfuifhubfqlwbfebvh dhfbvhjdfls jfafhuirhfiehfjsvnkjnc;ansdfljafhfuuevo nkjsfniuehfuehfuiheriushfuei nksjdfhkheuhrfohweqji
-</code></pre>
+    </pre>
     </div>
 </div>
