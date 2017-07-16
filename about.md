@@ -2,7 +2,7 @@
     <div style="display: inline-block;">
         <h2>Good</h2>
         <pre> abcdefg
-</code></pre>
+    </pre>
     </div>
     <div style="display: inline-block;">
         <h2>Bad</h2>
