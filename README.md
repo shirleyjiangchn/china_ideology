@@ -3,6 +3,8 @@
 ### [project](https://shirleyjiangchn.github.io/china_ideology/project)
 ### [about](https://shirleyjiangchn.github.io/china_ideology/about)
 
+<div class="begin-examples"></div>
+
 The article “China’s Ideological Spectrum” by Jennifer Pan and Yiqing Xu is summarized here:
 
 The study of ideology in authoritarian regimes—of how public preferences are configured and constrained—has received relatively little scholarly attention. This is because the arrangement of preferences is often seen as unimportant where individuals cannot vote or where votes do not meaningfully influence political outcomes. However, studying ideology in authoritarian regimes is valuable because it can shed light on the contours of opposition to and support for the regime. Using data from a large-scale online survey, we study ideology in China. 
@@ -15,3 +17,37 @@ Second, the configuration of preferences across different issues reflects known 
 Third, we find that China’s ideological spectrum is related to respondent personal and regional characteristics. Using three indices to indicate provincial-level economy, the results reveal positive correlations between liberal preferences and these economic variables at a provincial level. To be concrete, a general pattern is shown that provinces with higher average disposable incomes, more urban residents, and more trade openness tend to have more liberal preferences on average while poorer provinces with lower levels of development and openness tend to have more conservative political preferences on average. And we see similar patterns for the pro-market/non-traditional dimension and the nationalism dimension.
 
 These results shed light on our understanding of potential opposition to CCP rule. The belief system we identify does not reflect an alignment of pro-regime or anti-regime preferences. Even though those who are better educated and wealthier may prefer changes to China’s current political system, these preferences may not lead to opposition if the CCP maintains the trajectory of market-based economy. Similarly, those who oppose economic reforms—the less educated, the less well-off, those who have benefited less from China’s economic reforms—support the continuation of CCP rule. On the whole, the current configuration of preferences in China does not appear conducive to the development of consolidated opposition to Communist Party rule. 
+
+<div class="end-examples"></div>
+
+article .begin-examples ~ h3,
+article .begin-examples ~ p,
+article .begin-examples ~ .highlight {
+    width: 20%;
+}
+
+article .begin-examples ~ h3,
+article .begin-examples ~ p {
+    float: right;
+    box-sizing: border-box;
+    padding-right: 1rem;
+    clear: both;
+}
+
+article .begin-examples ~ .highlight {
+    float: left;
+    clear: left;
+    margin-bottom: 1rem;
+}
+
+.end-examples {
+    clear: both;
+}
+
+article .end-examples ~ p,
+article .end-examples ~ h3,
+article .end-examples ~ .highlight {
+    width: auto;
+    float: none;
+    clear: none;
+}
