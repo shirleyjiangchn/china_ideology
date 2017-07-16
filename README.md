@@ -1,5 +1,8 @@
 # Ideology
 
+## [project](https://shirleyjiangchn.github.io/china_ideology/project)
+## [about](https://shirleyjiangchn.github.io/china_ideology/about)
+
 ## Summary of The Recent Research
 
 The article “China’s Ideological Spectrum” by Jennifer Pan and Yiqing Xu is summarized here:
@@ -15,41 +18,3 @@ Third, we find that China’s ideological spectrum is related to respondent pers
 
 These results shed light on our understanding of potential opposition to CCP rule. The belief system we identify does not reflect an alignment of pro-regime or anti-regime preferences. Even though those who are better educated and wealthier may prefer changes to China’s current political system, these preferences may not lead to opposition if the CCP maintains the trajectory of market-based economy. Similarly, those who oppose economic reforms—the less educated, the less well-off, those who have benefited less from China’s economic reforms—support the continuation of CCP rule. On the whole, the current configuration of preferences in China does not appear conducive to the development of consolidated opposition to Communist Party rule. 
 
-<div class="begin-examples"></div>
-
-## [project](https://shirleyjiangchn.github.io/china_ideology/project)
-## [about](https://shirleyjiangchn.github.io/china_ideology/about)
-
-<div class="end-examples"></div>
-
-article .begin-examples ~ h3,
-article .begin-examples ~ p,
-article .begin-examples ~ .highlight {
-    width: 20%;
-}
-
-article .begin-examples ~ h3,
-article .begin-examples ~ p {
-    float: right;
-    box-sizing: border-box;
-    padding-right: 1rem;
-    clear: both;
-}
-
-article .begin-examples ~ .highlight {
-    float: left;
-    clear: left;
-    margin-bottom: 1rem;
-}
-
-.end-examples {
-    clear: both;
-}
-
-article .end-examples ~ p,
-article .end-examples ~ h3,
-article .end-examples ~ .highlight {
-    width: auto;
-    float: none;
-    clear: none;
-}
